@@ -27,6 +27,6 @@ public class LinkedListInsertionAtEnd {
     }
     public static void main(String[] args) {
         LinkedListInsertionAtEnd ll = new LinkedListInsertionAtEnd();
-        ll.insertAtEnd(5);
+        // ll.insertAtEnd(5);
     }
 }
